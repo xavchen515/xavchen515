@@ -3,8 +3,6 @@
 Reach out via my [LinkedIn profile](https://www.linkedin.com/in/xavchen515/).
 </p>
 
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavchen515&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Current Tech Stack
 #### Languages:
 Python | JS/TS | Dart | C/C++ | Java |
