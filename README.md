@@ -1,4 +1,4 @@
-# Hi, I'm Xavier Chen 👋
+# Hey, I'm Xavier 👋
 
 Software Developer | Queen's University Computing Student | Full-Stack Enthusiast
 
@@ -31,11 +31,6 @@ Personal finance dashboard built with Next.js, React, and Material UI
 - 40% faster page load times through static site generation
 - 30% improved cross-device responsiveness
 
-### [Global Weather Dashboard](https://github.com/xavchen515/weather-dashboard)
-Real-time weather application with HTML, CSS, JavaScript, and Node.js
-- Responsive design with optimized data retrieval
-- Resolved performance bottlenecks for smooth cross-device functionality
-
 ### [Medium-Inspired Blogging Platform](https://github.com/xavchen515/medium-clone)
 Full-stack blogging platform using React, Node.js, and Redux
 - Story interaction system with clapping reactions
@@ -52,7 +47,7 @@ Full-stack blogging platform using React, Node.js, and Redux
 
 ## Stats
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavchen515&layout=compact&theme=dark"/>
 </div>
 
@@ -60,7 +55,3 @@ Full-stack blogging platform using React, Node.js, and Redux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/xavierchn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xavierchen515@gmail.com)
-
----
-
-*Always open to discussing new opportunities and interesting projects!*
